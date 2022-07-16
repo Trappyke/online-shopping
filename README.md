@@ -1,14 +1,20 @@
-# WTELCOM ONLINE SHOPPING
+# WTELCOM ONLONE SHOPPNG 
 
-- WTELCOM is an online shopping website for
+## Introduction
+
+- WTELCOM is an online shopping website based for electronic device susch as smartphone, networking equipments home based electronics.
 
 ## Pages
 
 - Home
 - Products
-- Chart
+- categories
+- chart
+- contact us
 - About
 - Billing
-- Login
+- Login/Signup
 
--
+## Home
+
+- consist of products, chart, log in
